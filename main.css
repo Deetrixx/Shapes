@@ -1,0 +1,26 @@
+body {
+    background: yellow;
+}
+
+figure {
+    margin-left: 50%;
+}
+
+#triangle {
+    width: 0;
+    height: 0;
+    border-bottom: 100px;
+    border-right: 50 px;
+    border-left: 50 px;
+    background-color: blue;
+}
+
+#circle {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    background: grey;
+}
